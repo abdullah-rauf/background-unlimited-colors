@@ -1,0 +1,18 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    /* display: flex; */
+    width: 100px;
+
+}
+
+#stop {
+    margin-top: 20px;
+
+}
